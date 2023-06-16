@@ -2,7 +2,7 @@
 
 🌱 I’m currently working as a Business Analyst in a Malaysia FinTech company - Juris Technologies</p>
 🔭 I'm interested in creating insightful interactive dashboards and growing business through data-driven intelligence efforts</p>
-📫 How to reach me - https://www.linkedin.com/in/tan-wei-yi/ 
+📫 How to reach me - https://www.linkedin.com/in/tan-wei-yi/ | tanweiyi00@gmail.com
 <!--
 **tanweiyi00/tanweiyi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
